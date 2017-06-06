@@ -15,6 +15,4 @@ func main(){
 	//example to print an error
 	gologger.Print("WARN",7,"Description to show","filename.go")
 
-
-
 }
